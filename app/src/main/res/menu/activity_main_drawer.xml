@@ -12,11 +12,11 @@
             android:title="Média"
             android:icon="@drawable/ic_menu_media"/>
 
-        <item android:id="chamadaFalsa"
+        <item android:id="@+id/chamadaFalsa"
             android:title="Chamada falsa"
             android:icon="@drawable/ic_menu_chamada"/>
 
-        <item android:id="perfil"
+        <item android:id="@+id/perfil"
             android:title="Perfil"
             android:icon="@drawable/ic_menu_perfil"/>
     </group>
